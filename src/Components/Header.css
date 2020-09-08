@@ -1,0 +1,7 @@
+.header__CodeOverlay {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  border: 1px solid black;
+  z-index: 1;
+}
