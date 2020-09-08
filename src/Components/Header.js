@@ -20,7 +20,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <div className="header__CodeOverlay"></div>
+        {/* {<div className="header__CodeOverlay"></div>} */}
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation

@@ -26,5 +26,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Description",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielMugisha/react-portfolio.git"
+  },
+  "keywords": [
+    "#react"
+  ],
+  "author": "Daniel MUGISHA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielMugisha/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/danielMugisha/react-portfolio#readme"
 }
